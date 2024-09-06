@@ -1,0 +1,172 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+fieldset{
+    height: 630px;
+    width: 380px;
+    border: 1px solid rgb(228, 224, 224);
+    box-shadow: 5px 10px 20px grey;
+    margin-left: 33.3%;
+}
+
+h1{
+    color: blue;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 250%;
+    margin-bottom: 15%;
+    margin-left: 8%;
+}
+
+.x{
+    height: 30px;
+    width: 30px;
+    margin-left: 90%;
+    font-size: 23px;
+    color: gray;
+    background-color: white;
+    border: none;
+    margin-top: 10px;
+    
+    
+    
+}
+
+.a{
+height: 50px;
+width: 330px;
+margin-left: 8%;
+border: none;
+background-color: lightgray;
+border-radius: 2px;
+margin-top: 8px;
+
+}
+
+.digite{
+color: gray;
+margin-left: 8%;
+
+
+}
+
+
+.b{
+    height: 50px;
+    width: 330px;
+    margin-left: 8%;
+    margin-top: 2%;
+    border: none;
+    background-color: lightgrey;
+    border-radius: 2px
+}
+.espaco{
+    margin-top: 20px;
+}
+
+#secret{
+    color: gray;
+    margin-left: 8%;
+    margin-top: -100px;
+      
+}
+
+.entrar2{
+    height: 50px;
+    width: 330px;
+    margin-left: 8%;
+    font-size: 18px;
+    color:white;
+    background-color: rgb(33, 33, 94);
+    border: none;
+    margin-top: 8%;
+    border-radius: 2px;
+    margin-bottom: 5px;
+
+}
+
+.entrar{
+    height: 50px;
+    width: 330px;
+    margin-left: 8%;
+    font-size: 18px;
+    color:white;
+    background-color: rgb(33, 33, 94);
+    border: none;
+    margin-top: 8%;
+    border-radius: 2px;
+    margin-bottom: 25px;
+
+}
+a{
+    color: gray;
+    margin-left: 30%;
+    text-decoration: none;
+    margin-top: 100px;
+}
+
+#novaconta{
+    color: rgb(33, 33, 94);
+    margin-left: 33%;
+    text-decoration: none;
+    margin-top: 100px;
+    font-weight: bold;
+}
+
+.exibir{
+    margin-left: 65%;
+    margin-top: 8%; 
+    
+    
+}
+
+
+.b2{
+    height: 50px;
+    width: 330px;
+    margin-left: 8%;
+    margin-top: 2%;
+    border: none;
+    background-color: lightgrey;
+    border-radius: 2px;
+    margin-bottom: -15px;
+}
+
+.alinhamento{
+    color: blue;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 230%;
+    margin-top: -10px;
+    margin-left: 8%;
+
+}
+
+.digite2{
+    color: gray;
+    margin-left: 8%;
+    
+}
+
+#secret2{
+    color: gray;
+    margin-left: 8%;
+    margin-top: -100px;
+}
+
+.a2{
+    color: gray;
+    margin-left: 35%;
+    text-decoration: none;
+    margin-top: 100px;
+}
+
+#novaconta2{
+    color: rgb(33, 33, 94);
+    margin-left: 34%;
+    text-decoration: none;
+    margin-top: 50px;
+    font-weight: bold;  
+}
